@@ -1,4 +1,4 @@
-def display_board(1, 2, 3, 4, 5, 6, 7, 8, 9)
-  puts "#{1}" "|" "#{2}" "|" "#{3}" , "---------" , "#{4}" "|" "#{5}" "|" "#{6}" , "#{7}" "|" "#{8}" "|" "#{9}"
+def display_board(one, two, three, four, five, six, seven, eight, nine)
+  puts "#{one}" "|" "#{two}" "|" "#{three}" , "---------" , "#{four}" "|" "#{five}" "|" "#{six}" , "#{seven}" "|" "#{eight}" "|" "#{nine}"
 end
 display_board("   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ")
